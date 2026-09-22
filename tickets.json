@@ -1,0 +1,12 @@
+{
+    "tickets": [
+        {
+            "id": 1,
+            "issue": "printer not workig",
+            "description": "fjnr",
+            "priority": "High",
+            "status": "Open"
+        }
+    ],
+    "next_ticket_id": 2
+}
