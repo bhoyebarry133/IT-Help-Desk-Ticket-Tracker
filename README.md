@@ -17,7 +17,6 @@ Tickets are saved in a JSON file so that information remains available even afte
 - Update ticket status
 - Save tickets to a JSON file
 - Load saved tickets when the program starts
-- Validate ticket IDs and menu selections
 
 ## Methods  Used
 
@@ -49,5 +48,3 @@ Through making this project, I practiced using Python functions, dictionaries, l
 
 - Add a search feature for tickets
 - Add the ability to delete tickets
-- Add user authentication
-- Add a graphical user interface
